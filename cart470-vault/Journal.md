@@ -21,3 +21,15 @@ There is beauty, and there is pretty.
 I am worried that this project will fail because we left the beauty of the gallery behind for pretty.
 
 Anyways, those are my thoughts. Just kind of been in a sick angry mood listening to They Might Be Giants and Aquabats in an attempt to cheer me up.
+
+# Oct 6, 2026
+
+This week, I finally got the chance to be inside Godot. I love Godot so damn much. It's so lightweight, easy to learn, easy to use. Works so well with everything, so malleable if it doesn't. It is the perfect game engine, even if its feature set is marginally lacking.
+
+This week, I feel like I got to show off why Godot is so great. Two major problems were occurring with both Unity and Unreal. Well mainly Unity, which is Godot's biggest opposition when it comes to our big decision. I'll start with Unreals problem since its short and sweet. Unreal can't directly import blend files. Nadia bought a 40$ extension for it, but that personal to her. So that plus the fact that unreal can't export to web makes the engine a big no-no moving forward I think.
+
+Unity side, well... I didn't touch the engine. I told the team I have experience, but a lot of my experience involves a deep seeded hatred toward the tool. I genuinely believe it was crafted by some demon to torture humanity. This week was another example why. We have a private discord server (message us if you want to join) with channels dedicated to each engine. The entire unity chat is just them trying to figure the git out. I tried to help since I do have a lot of experience with git, but the issue seems to be uniquely Unity related. Unity has 2 big problems. 1. It has to manage its own git. When setting up the project you either declare the git during project creation, or you connect it. Unity needs to be able to read commits for some reason, which I think is related to problem number 2. Unity uses a database file. This is common, and it solves the problem of having tons of UID files (like in Godot) so commit are less cumbersome. However, this means that either you include the library database in the gitignore, or you pass around a time bomb for a while. Most of the week was spent figuring out how to recover once it exploded. There were also broken files I think passed through that just poisoned the git further. Its just been kind of a shit show, and progress has been slow on that front. 
+
+The Godot chat was literally me and Bea sharing progress, letting the other know when progress was being made, and just pushing without any issues. Godot version control is very easy if you maintain it properly, and a lot of it 'just works'. 
+
+I think the general experience this week will be quite beneficial to our discussions this week, and I'm quite excited to finally talk about Godot without sounding like a cultist.
