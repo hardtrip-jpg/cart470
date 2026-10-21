@@ -33,3 +33,15 @@ Unity side, well... I didn't touch the engine. I told the team I have experience
 The Godot chat was literally me and Bea sharing progress, letting the other know when progress was being made, and just pushing without any issues. Godot version control is very easy if you maintain it properly, and a lot of it 'just works'. 
 
 I think the general experience this week will be quite beneficial to our discussions this week, and I'm quite excited to finally talk about Godot without sounding like a cultist.
+
+# Oct 20th, 2026
+
+A lot of this project has been 'waiting'. Maybe because we're going quick, organized, or professional? Probably a mix of these things. The biggest update is that we finally know what to do. 
+
+We have decided to go with what was proposed by Sabine during our last meeting. We will split the project into two. One will be a high definition VR port of the gallery, one that looks really nice with some feature parity. This is not a platform, it is an experience. Its a modernization in aesthetics rather then tech. The goal with this is to provide an actual space for the gallery, and offer a much more tangible experience. I personally will not be working on this. Instead I am working on project two, a web version of the gallery. The goal is to allow the gallery to be easily shared to multiple people, like a landing page without the bloat Second Life enforces. This doesn't mean Second Life is abandoned outright, it was implied there are more discussions and explorations to be had. For now however, a future proof platform that is infinitely accessible seems to be quite desirable.
+
+Luckily, feature parity to Second Life is not required in both projects. This includes Avatars, Multiplayer, etc. Avatars being the standout 'thank god we don't' have to do this one'. I asked why to Skawennati, and it was simply "The art is the focus". This entire time I've been giving much more credence to Second Life then I assumed. The gallery exists in Second Life for no other reason then it always has. Second Life offers Second Life as value, which is not something we can offer. Even with feature parity, the experience could not be replicated. This again is a massive weight off our shoulders. 
+
+With that in mind, focus now will just be planning out. I'll likely try to set up a new project file or something, try to keep things clean. The 'Godot' team and I will have a meeting where we plan everything out and assign work. I wouldn't be surprised if our turnaround time is insane. 
+
+The real project is finally starting.
