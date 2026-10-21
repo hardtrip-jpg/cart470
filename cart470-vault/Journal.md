@@ -34,7 +34,7 @@ The Godot chat was literally me and Bea sharing progress, letting the other know
 
 I think the general experience this week will be quite beneficial to our discussions this week, and I'm quite excited to finally talk about Godot without sounding like a cultist.
 
-# Oct 20th, 2026
+# Oct 20, 2026
 
 A lot of this project has been 'waiting'. Maybe because we're going quick, organized, or professional? Probably a mix of these things. The biggest update is that we finally know what to do. 
 
