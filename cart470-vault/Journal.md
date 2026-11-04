@@ -45,3 +45,13 @@ Luckily, feature parity to Second Life is not required in both projects. This in
 With that in mind, focus now will just be planning out. I'll likely try to set up a new project file or something, try to keep things clean. The 'Godot' team and I will have a meeting where we plan everything out and assign work. I wouldn't be surprised if our turnaround time is insane. 
 
 The real project is finally starting.
+
+# Nov 3, 2026
+
+Since the big initial push around reading week, the project has slowed down immensely. Maybe it's because the workload doesn't seem that demanding, or that attention has been assigned to other courses. That doesn't mean there wasn't any work done.
+
+For one, after our last meeting I immediately transferred the project over to our main repository and set things up accordingly. This involved cleaning the file structure and defining a proper rule set for future organization. I also set up some preliminaries I usually do in every Godot project I work in, such as a Math script for missing basic functions. I wrote a 'Style Guide' just to make sure naming conventions remain consistent, and that was it for the last 2 weeks. 
+
+I did also start working on a pause menu. Whats interesting about a pause menu is how little you usually think about it inside a game or an experience. Its always assumed to be just there. Yet, its pretty difficult to design. There's a lot of planning and work that goes into every function of a pause menu. At the moment, I am trying to define every option and setting a user should have access to when pausing. More importantly, which settings should be available? There's two big factors to consider. For one, this is a web project so display and graphical settings are pretty limited. Should they still be offered? Should input rebinding be on accessible? What sliders should users be able to interact with when it comes to sound? There's a lot to consider already. Secondly, accessibility is very important when it comes to this project, so what does that entail. I've done some research through the Game UI Database and the Games accessibility Guidelines to get a sense of what should be on offer. A lot of it entails implementing features that might be out of scope (subtitles for spoken word), but things like colour blind options are incredibly doable. 
+
+I don't have a lot to contribute this week, at least more then last week since I didn't even write a journal. Hopefully this week the work gets going and I get to properlyy design some stuff.
